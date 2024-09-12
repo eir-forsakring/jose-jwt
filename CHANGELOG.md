@@ -1,3 +1,18 @@
+0.10.0
+------
+
+* Change to using crypton (see #41).
+
+0.9.6
+-----
+
+* Updated aeson package bound to include 2.2
+
+0.9.5
+-----
+
+* Support for mtl 2.3
+
 0.9.4
 -----
 
